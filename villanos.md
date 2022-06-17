@@ -5,3 +5,4 @@
 * Green Goblin
 * Rinho
 * Magneto
+* Dr. Emmet Brown
